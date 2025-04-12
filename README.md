@@ -1,4 +1,8 @@
-# Excel-P2-Data-Analysis
-In this Project we are analysing students data.
-Task is completely done on Excel.
-Show skills and command over every tool.
+# Bike-Sales-Data-Analysis
+Steps:
+1- Remove Duplicates
+2- Make Dataset readable for User (Ctrl+H to replace single letter classes with commplete abbreviation).
+3- Group Discrete classes.
+4- Create Pivot Tables
+5- Create Dashboard
+6- Add Filters
